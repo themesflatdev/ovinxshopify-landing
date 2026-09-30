@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="400" viewBox="0 0 480 400">
+  <rect width="480" height="400" fill="#F7F7F7"/>
+  <rect x="1" y="1" width="478" height="398" fill="none" stroke="#E4E4E4" stroke-width="2" stroke-dasharray="6 6"/>
+  <g transform="translate(204, 114.5)" fill="none" stroke="#AAB0BB" stroke-width="3.6">
+    <rect x="0" y="0" width="72" height="56.160000000000004" rx="5.76"/>
+    <circle cx="20.160000000000004" cy="20.160000000000004" r="7.2"/>
+    <path d="M0 46.800000000000004 L23.04 28.8 L41.76 41.76 L57.6 25.2 L72 39.6 L72 56.160000000000004 L0 56.160000000000004 Z" fill="#EDEEF1" stroke="none"/>
+  </g>
+  <text x="240" y="240.5" font-family="Barlow, Arial, sans-serif" font-size="36" font-weight="600" fill="#717171" text-anchor="middle">480 &#215; 400</text>
+  <text x="240" y="274.7" font-family="Barlow, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="1" fill="#AAB0BB" text-anchor="middle">REPLACE IMAGE</text>
+</svg>

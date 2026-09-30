@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <rect width="80" height="80" fill="#F7F7F7"/>
+  <rect x="1" y="1" width="78" height="78" fill="none" stroke="#E4E4E4" stroke-width="2" stroke-dasharray="6 6"/>
+  <g transform="translate(28, 7.299999999999997)" fill="none" stroke="#AAB0BB" stroke-width="1.5">
+    <rect x="0" y="0" width="24" height="18.72" rx="1.92"/>
+    <circle cx="6.720000000000001" cy="6.720000000000001" r="2.4000000000000004"/>
+    <path d="M0 15.600000000000001 L7.68 9.600000000000001 L13.919999999999998 13.919999999999998 L19.200000000000003 8.399999999999999 L24 13.200000000000001 L24 18.72 L0 18.72 Z" fill="#EDEEF1" stroke="none"/>
+  </g>
+  <text x="40" y="49.3" font-family="Barlow, Arial, sans-serif" font-size="12" font-weight="600" fill="#717171" text-anchor="middle">80 &#215; 80</text>
+  <text x="40" y="68.3" font-family="Barlow, Arial, sans-serif" font-size="10" font-weight="500" letter-spacing="1" fill="#AAB0BB" text-anchor="middle">ICON</text>
+</svg>

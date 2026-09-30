@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="812" viewBox="0 0 375 812">
+  <rect width="375" height="812" fill="#F7F7F7"/>
+  <rect x="1" y="1" width="373" height="810" fill="none" stroke="#E4E4E4" stroke-width="2" stroke-dasharray="6 6"/>
+  <g transform="translate(153.75, 325.84375)" fill="none" stroke="#AAB0BB" stroke-width="3.375">
+    <rect x="0" y="0" width="67.5" height="52.65" rx="5.4"/>
+    <circle cx="18.900000000000002" cy="18.900000000000002" r="6.75"/>
+    <path d="M0 43.875 L21.6 27 L39.15 39.15 L54 23.625 L67.5 37.125 L67.5 52.65 L0 52.65 Z" fill="#EDEEF1" stroke="none"/>
+  </g>
+  <text x="187.5" y="443.96875" font-family="Barlow, Arial, sans-serif" font-size="33.75" font-weight="600" fill="#717171" text-anchor="middle">375 &#215; 812</text>
+  <text x="187.5" y="476.03125" font-family="Barlow, Arial, sans-serif" font-size="16.875" font-weight="500" letter-spacing="1" fill="#AAB0BB" text-anchor="middle">REPLACE VIDEO</text>
+</svg>
